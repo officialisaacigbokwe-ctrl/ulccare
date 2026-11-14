@@ -213,9 +213,9 @@ export default function Footer({ variant = "full" }: FooterProps) {
               <div className="flex items-start gap-3">
                 <MapPin size={17} className="mt-1 shrink-0 text-[#D99B26]" />
                 <p className="text-sm leading-6 text-white/60">
-                  15722 Amapola Drive,
+                  12600 Bissonnet St, Suite A2,
                   <br />
-                  Houston, TX 77083
+                  Houston Texas USA 77099
                 </p>
               </div>
 
